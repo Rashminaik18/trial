@@ -1,2 +1,3 @@
 # trial
-This is my trial git repository
+This is my trial git repositor
+Author-Rashmi Naik
